@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-javierfood">
+    <title>How to get food</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Go to the kitchen, and you are welcome to any food you like in there.</cmd>
+            </step>
+            <step>
+                <cmd>If you see nothing you want, you can hop on the bus to Hethwood Market right
+                    down the street, and they sell a variety of different foods.</cmd>
+            </step>
+            <step>
+                <cmd>If nothing there interests you, take the bus to campus to one of the dining
+                    halls on campus.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

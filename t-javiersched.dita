@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-javiersched">
+    <title>How to find your classes</title>
+        <taskbody>
+            <steps id="steps_cys_wwk_nx">
+                <step>
+                    <cmd>Go to hokiespa.vt.edu</cmd>
+                </step>
+                <step>
+                    <cmd>Login with your PID and password.</cmd>
+                </step>
+                <step>
+                    <cmd>Go to Registration and Schedule, and you will find all of your classes and
+                        where they are located.</cmd>
+                </step>
+                <step>
+                    <cmd>If you want to figure out where the buildings of your classes are before
+                        I'm back to show you around, just google the building names, and you will
+                        find photos and addresses.</cmd>
+                </step>
+            </steps>
+        </taskbody>
+</task>
